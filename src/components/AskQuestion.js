@@ -33,7 +33,7 @@ function AskQuestion() {
     <SafeAreaView style={styles.container}>
       <Header />
       <View style={styles.mainContainer}>
-        <Text style={styles.mainContainerHeading}>Ask Your Query</Text>
+        <Text style={styles.mainContainerHeading}>Assk Your Query</Text>
         <QuillEditor
           style={styles.editor}
           ref={_editor}
